@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "idCliente": 1,
+    "nombre": "Ana García",
+    "email": "ana@email.com",
+    "dateRegistro": "2026-01-15"
+  },
+  {
+    "idCliente": 2,
+    "nombre": "Carlos López",
+    "email": "carlos@email.com",
+    "dateRegistro": "2026-02-20"
+  },
+  {
+    "idCliente": 3,
+    "nombre": "María Sánchez",
+    "email": "maria@email.com",
+    "dateRegistro": "2026-03-10"
+  }
+]
