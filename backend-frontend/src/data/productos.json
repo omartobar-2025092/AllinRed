@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "idProducto": 1,
+    "nombreProducto": "The Legend of Zelda: Breath of the Wild",
+    "precioProducto": 60,
+    "Tipo": "Físico",
+    "Desarrolladora_idDesarrolladora": 1
+  },
+  {
+    "idProducto": 2,
+    "nombreProducto": "Red Dead Redemption 2",
+    "precioProducto": 30,
+    "Tipo": "Digital",
+    "Desarrolladora_idDesarrolladora": 2
+  },
+  {
+    "idProducto": 3,
+    "nombreProducto": "Cyberpunk 2077",
+    "precioProducto": 25,
+    "Tipo": "Digital",
+    "Desarrolladora_idDesarrolladora": 3
+  },
+  {
+    "idProducto": 4,
+    "nombreProducto": "The Last of Us Part I",
+    "precioProducto": 40,
+    "Tipo": "Físico",
+    "Desarrolladora_idDesarrolladora": 4
+  },
+  {
+    "idProducto": 5,
+    "nombreProducto": "The Binding of Isaac: Repentance",
+    "precioProducto": 50,
+    "Tipo": "Digital",
+    "Desarrolladora_idDesarrolladora": 5
+  }
+]
