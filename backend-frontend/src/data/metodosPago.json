@@ -1,0 +1,5 @@
+[
+  { "idMetodo": 1, "nombreMetodo": "Tarjeta Crédito" },
+  { "idMetodo": 2, "nombreMetodo": "PayPal" },
+  { "idMetodo": 3, "nombreMetodo": "Transferencia Bancaria" }
+]
