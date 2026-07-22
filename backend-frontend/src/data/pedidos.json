@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "idPedido": 1,
+    "idCliente": 1,
+    "datePedido": "2026-02-01",
+    "totalPrecio": 90,
+    "idMetodo": 1,
+    "idDireccion": 1,
+    "detalles": [
+      { "idProducto": 1, "cantidad": 1, "precioUnidad": 60 },
+      { "idProducto": 4, "cantidad": 1, "precioUnidad": 30 }
+    ]
+  },
+  {
+    "idPedido": 2,
+    "idCliente": 2,
+    "datePedido": "2026-02-15",
+    "totalPrecio": 30,
+    "idMetodo": 2,
+    "idDireccion": 2,
+    "detalles": [
+      { "idProducto": 2, "cantidad": 1, "precioUnidad": 30 }
+    ]
+  },
+  {
+    "idPedido": 3,
+    "idCliente": 3,
+    "datePedido": "2026-03-01",
+    "totalPrecio": 65,
+    "idMetodo": 3,
+    "idDireccion": 3,
+    "detalles": [
+      { "idProducto": 3, "cantidad": 1, "precioUnidad": 25 },
+      { "idProducto": 5, "cantidad": 1, "precioUnidad": 40 }
+    ]
+  }
+]
