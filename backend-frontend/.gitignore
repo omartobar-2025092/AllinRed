@@ -1,12 +1,48 @@
-# Variables de entorno
-.env
-
 # Dependencias
 node_modules/
 
-# Compilación
-dist/
-build/
+# Lockfiles (elige cuáles versionar)
+# package-lock.json
+# pnpm-lock.yaml
 
 # Logs
+logs
 *.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Directorios de salida
+dist/
+build/
+coverage/
+
+# Caché
+.npm
+.pnpm-store/
+.parcel-cache/
+.cache/
+
+# Frameworks
+.next/
+.nuxt/
+.svelte-kit/
+.vite/
+
+# TypeScript
+*.tsbuildinfo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de VS Code (opcional)
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
