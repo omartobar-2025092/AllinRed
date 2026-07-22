@@ -1,0 +1,5 @@
+[
+  { "idDireccion": 1, "calle": "Calle Mayor 123", "ciudad": "Madrid", "codigoPostal": "28001", "DireccionLocal": "Casa", "idCliente": 1 },
+  { "idDireccion": 2, "calle": "Av. Principal 456", "ciudad": "Barcelona", "codigoPostal": "08001", "DireccionLocal": "Oficina", "idCliente": 2 },
+  { "idDireccion": 3, "calle": "Calle Sol 789", "ciudad": "Valencia", "codigoPostal": "46001", "DireccionLocal": "Casa", "idCliente": 3 }
+]
