@@ -1,6 +1,6 @@
-Drop Database if exists AllinRed_in5cm;
-Create Database AllinRed_in5cm;
-Use AllinRed_in5cm;
+Drop Database if exists allinRed_in5cm;
+Create Database allinRed_in5cm;
+Use allinRed_in5cm;
 
 Create Table Desarrolladora(
 idDesarrolladora Int primary key auto_increment,
